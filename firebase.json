@@ -2,7 +2,7 @@
   "functions": [
     {
       "source": "js",
-      "codebase": "javascript" 
+      "codebase": "javascript"
     },
     {
       "source": "ts",
